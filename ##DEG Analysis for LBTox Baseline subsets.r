@@ -21,7 +21,7 @@ library(tictoc)
 library(tibble)
 library(RColorBrewer)
 
-# teest
+# Set working directory
 
 my_dir <- "/directflow/SCCGGroupShare/projects/jenli3/LBTOX"
 setwd(my_dir)
